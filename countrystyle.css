@@ -170,7 +170,7 @@ main {
 
 
 .gradient-text-ds {
-    background: linear-gradient(to right, #010A55 0%, #DD9B9B 20%);
+    background: linear-gradient(to right, #010A55 0%, #DD9B9B 45%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -407,7 +407,8 @@ main {
 .latest-stories-text-ds {
     color: white;
     position: relative;
-    top: 20rem;
+    top: 30rem;
+    font-weight: 400;
 }
 
 
