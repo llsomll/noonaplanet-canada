@@ -349,7 +349,7 @@ main {
     position: relative;
     top:  150px;
     left: 20px;
-    width: 600px;
+    max-width: 600px;
     text-wrap: wrap;
 }
 
@@ -360,6 +360,7 @@ main {
     top:  100px;
     left: 20px;
     letter-spacing: 1px;
+    text-wrap: wrap;
 }
 
 
@@ -388,6 +389,7 @@ main {
 .latest-storeis-container-ds {
     max-width: 1472px;
 }
+
 
 
 .latest-stroies-left-ds {
